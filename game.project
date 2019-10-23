@@ -1,0 +1,11 @@
+[project]
+title = LuaSecProject
+version = 0.5
+custom_resources = tests/certs/
+
+[script]
+shared_state = 1
+
+[library]
+include_dirs = luasec
+
