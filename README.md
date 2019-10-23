@@ -1,4 +1,4 @@
-# This a mirror containing openssl x86_64 library
+# This is a mirror containing openssl x86_64 library
 
 # LuaSec
 This is the LuaSec module for the [Defold game engine](http://www.defold.com), based on [Brunoos' implementation](https://github.com/brunoos/luasec) and OpenSSL 1.1.0e.
